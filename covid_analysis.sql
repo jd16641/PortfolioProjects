@@ -2,10 +2,6 @@ Select *
 From PortfolioProject.dbo.covid_deaths
 order by 3,4
 
---Select *
---From PortfolioProject.dbo.covid_vaccinations$
---order by 3,4
-
 -- Select data that we're going to be using
 
 Select location, date, total_cases, new_cases, total_deaths, population
@@ -81,7 +77,7 @@ where dea.continent is not null
 )
 Select *, (rolling_vaccinations/population)*100 as percentage_vaccinated_rolling
 From PopvsVac
---Where location like '%kingdom%'
+
 
 -- Temp Table
 
@@ -107,5 +103,5 @@ where dea.continent is not null
 Select *, (rolling_vaccinations/population)*100 as percentage_vaccinated_rolling
 From #PercentPopulationVaccinated
 
---Creating View to store data for later visualisations
+
 
