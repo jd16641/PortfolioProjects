@@ -30,7 +30,6 @@ From Data_cleaning_Project.dbo.NashvilleHousing
 
 Select *
 From Data_cleaning_Project.dbo.NashvilleHousing
---Where PropertyAddress is null
 order by ParcelID
 
 --ParcelID and PropertyAddress is the same, if Property Address is missing from ParcelID, we can populate it
