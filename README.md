@@ -6,5 +6,8 @@ This project was written in Pyton using Backtesting.py framework and the TA-Lib 
 
 It shows a comparison between [Dollar Cost Averaing](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) and a [Moving Average Crossover](https://www.investopedia.com/articles/active-trading/052014/how-use-moving-average-buy-stocks.asp) investing strategies.
 
-- Data was taken from yahoo finance library to generate QQQ data from the start of the 2022 crash to early 2024
-- 
+- Data was taken from yahoo finance library to generate QQQ data from the start of the 2022 stock market crash to early 2024
+- Project utilises object oriented programming within Python, further data analysed in PowerBI
+
+## ![overview of the PowerBI Dashboard]
+(PowerBI_stock.png)
