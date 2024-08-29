@@ -9,5 +9,4 @@ It shows a comparison between [Dollar Cost Averaing](https://www.investopedia.co
 - Data was taken from yahoo finance library to generate QQQ data from the start of the 2022 stock market crash to early 2024
 - Project utilises object oriented programming within Python, further data analysed in PowerBI
 
-## ![overview of the PowerBI Dashboard]
-(PowerBI_stock.png)
+## ![overview of the PowerBI Dashboard](PowerBI_stock.png)
