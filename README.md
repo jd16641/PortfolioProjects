@@ -32,3 +32,14 @@ It shows a comparison between [Dollar Cost Averaing](https://www.investopedia.co
 
 - Requires more capital overall than DCA to be competitive
 - Requires a more manual approach where human error can be a factor, harder to automate
+
+# [Project 2: 2024 Paris Olympics Medalists](https://github.com/jd16641/PortfolioProjects/blob/main/Olympics_project.sql)
+
+This project was queried in SQL and visulaised in PowerBI
+
+- Data was taken from Kaggle and cleaned using SQL
+- Project displays use of JOIN and CTE's
+
+## Overview of the PowerBI Dashboard  
+![](Images/PowerBI_olympics.png)
+
