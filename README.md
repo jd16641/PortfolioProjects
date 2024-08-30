@@ -23,3 +23,12 @@ It shows a comparison between [Dollar Cost Averaing](https://www.investopedia.co
 - You can only DCA into a reliable index, if you were to average down into a random stock you might never recover
 
 ### Positives from Moving Average Crossover
+- 20.39% return over two years
+- You're only in the stock/etf when in a confirmed uptrend
+- You don't have to deal with a massive drawdown
+- Save on commission costs as you do far less trades
+
+### Negatives from Moving Average Crossover
+
+- Requires more capital overall than DCA to be competitive
+- Requires a more manual approach where human error can be a factor, harder to automate
