@@ -12,3 +12,14 @@ It shows a comparison between [Dollar Cost Averaing](https://www.investopedia.co
 ## Overview of the PowerBI Dashboard  
 ![](Images/PowerBI_stock.png)
 
+## Insights from the data
+
+### Positive from DCA
+- 23.54% return over two years
+- Low commitment, you can automate your trades to buy every week
+
+### Negatives from DCA
+- Mentally challenging holding through a draw down
+- You can only DCA into a reliable index, if you were to average down into a random stock you might never recover
+
+### Positives from Moving Average Crossover
