@@ -43,3 +43,10 @@ This project was queried in SQL and visulaised in PowerBI
 ## Overview of the PowerBI Dashboard  
 ![](Images/PowerBI_olympics.png)
 
+# [Project 3: Nashivle Housing Data - SQL Data Cleaning](https://github.com/jd16641/PortfolioProjects/blob/main/Nashville_data_cleaning.sql))
+
+This project was queried and cleaned using SQL
+
+- Data was taken from Kaggle
+- Displays use of CTE's, JOIN, SUBSTRINGS, PARSENAME etc.
+
