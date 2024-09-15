@@ -1,6 +1,6 @@
 # James' Portfolio
 
-# [Project 1: Trading Analysis - Dollar Cost Average (DCA) VS Moving Average Crossover](https://github.com/jd16641/PortfolioProjects/blob/main/Dollar%20Cost%20Average%20Vs%20Moving%20Average%20Returns%20from%202022%20to%20Present%202.0.ipynb)
+# [Project 1: Trading Analysis - Dollar Cost Average (DCA) VS Moving Average Crossover - Python](https://github.com/jd16641/PortfolioProjects/blob/main/Dollar%20Cost%20Average%20Vs%20Moving%20Average%20Returns%20from%202022%20to%20Present%202.0.ipynb)
 
 This project was written in Pyton using Backtesting.py framework and the TA-Lib technical analysis library. 
 
@@ -33,7 +33,7 @@ It shows a comparison between [Dollar Cost Averaing](https://www.investopedia.co
 - Requires more capital overall than DCA to be competitive
 - Requires a more manual approach where human error can be a factor, harder to automate
 
-# [Project 2: 2024 Paris Olympics Medalists](https://github.com/jd16641/PortfolioProjects/blob/main/Olympics_project.sql)
+# [Project 2: 2024 Paris Olympics Medalists - SQL](https://github.com/jd16641/PortfolioProjects/blob/main/Olympics_project.sql)
 
 This project was queried in SQL and visulaised in PowerBI
 
@@ -49,4 +49,6 @@ This project was queried and cleaned using SQL
 
 - Data was taken from Kaggle
 - Displays use of CTE's, JOIN, SUBSTRINGS, PARSENAME etc.
+
+# [Project 4: Timeseries Regressions, UK Energy Consumption - Python](https://github.com/jd16641/PortfolioProjects/blob/main/UK_Energy_Consumption.ipynb)
 
