@@ -50,5 +50,13 @@ This project was queried and cleaned using SQL
 - Data was taken from Kaggle
 - Displays use of CTE's, JOIN, SUBSTRINGS, PARSENAME etc.
 
-# [Project 4: Timeseries Regressions, UK Energy Consumption - Python](https://github.com/jd16641/PortfolioProjects/blob/main/UK_Energy_Consumption.ipynb)
+# [Project 4: Timeseries Regression, UK Energy Consumption - Python](https://github.com/jd16641/PortfolioProjects/blob/main/UK_Energy_Consumption.ipynb)
 
+This project was written in Pyton using XGBoost model to calculate the regression for UK Energy consumption.
+
+- Data was taken from [Kaggle](https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022), supplied by National Grid from dates 2009-2024
+- Project utilise matplotlib as well as XGBoost to calculate the regression model to future predict energy usage in the UK.
+
+## Train/Test data
+![](Images/Regression_1.png)
+  
