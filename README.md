@@ -59,4 +59,14 @@ This project was written in Pyton using XGBoost model to calculate the regressio
 
 ## Train/Test data
 ![](Images/Regression_test.train.png)
+
+This shows how the data was split. The model would be trained based on the data showed in red.
+
+## Regression model overlapped with original data
+![](Images/Regression_2.png)
+
+This model was quite accurate
+
+## Regression model overlapped with original data on a weekly time frame
+![](Images/Regression_3.png)
   
