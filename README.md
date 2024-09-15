@@ -58,5 +58,5 @@ This project was written in Pyton using XGBoost model to calculate the regressio
 - Project utilise matplotlib as well as XGBoost to calculate the regression model to future predict energy usage in the UK.
 
 ## Train/Test data
-![](Images/Regression_train.test.png)
+![](Images/Regression_test.train.png)
   
